@@ -30,3 +30,12 @@
 
 # Debug files
 *.dSYM/
+
+# device driver build
+*.ko.cmd
+*.mod.o.cmd
+*.o.cmd
+.tmp_versions/
+Module.symvers
+*.mod.c
+modules.order
